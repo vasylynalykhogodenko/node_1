@@ -10,6 +10,6 @@
     "main": "index.js",
     "type": "module",
     "dependencies": {
-        "reverse-polish-notation-package": "^1.0.0"
+        "reverse-polish-notation-package": "^2.1.0"
     }
 }
